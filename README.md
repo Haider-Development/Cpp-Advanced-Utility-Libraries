@@ -25,12 +25,14 @@ My-Cpp-Libraries/           (Root)
 └── README.md                # Documentation
 
 🛠️ Included Libraries & Features
+
 1. 🧵 String Manipulation (clsString.h)
 Provides advanced formatting and text processing capabilities:
 Tokenizing and splitting strings using custom delimiters.
 Case conversion (Upper/Lower/Invert) and trimming spaces.
 Word counting, letter counting, and vowel analysis.
 Custom string joining and word reversing algorithms.
+
 2. 📅 Date & Time Management (clsDate.h)
 A robust engine for handling complex calendar operations:
 Validating dates, leap years, and calculating days in months/years.
@@ -38,11 +40,13 @@ Date comparison (IsBefore, IsEqual, IsAfter).
 Calculating difference between two dates in days (including business/leap days).
 Adding/Subtracting days, weeks, months, or decades to existing dates.
 Custom date formatting and printing monthly/yearly calendars.
+
 3. 🛡️ Input Validation Template (clsInputValidate.h)
 A template-based library (template <class T>) ensuring safe user inputs:
 Range validation for numbers and characters (IsNumberBetween).
 Type-safe inputs with built-in error handling (ReadNumber).
 Date range verification (IsDateBetween).
+
 4. 🧰 General Utility & Randomization (clsUtil.h)
 Miscellaneous helper functions for common logic:
 Secure pseudo-random number and character generation.
@@ -55,5 +59,6 @@ git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://gi
 
 Navigate to main-test-app/ and open the project inside Visual Studio.
 Press Ctrl + F5 or click Run/Start to compile and run the unified testing dashboard in Source.cpp.
+
 📄 License
 This project is licensed under the MIT License - see the local files for details.
