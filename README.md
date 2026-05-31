@@ -12,7 +12,7 @@ A comprehensive, self-contained C++ collection of highly reusable object-oriente
 
 The repository is organized into a single, clean, and self-contained project structure to ensure zero configuration and seamless compilation out of the box:
 
-`text
+```text
 My-Cpp-Libraries/           (Root)
 │
 ├── main-test-app/           (Main Project Folder)
