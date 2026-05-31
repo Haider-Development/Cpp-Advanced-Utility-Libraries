@@ -2,7 +2,7 @@
 
 The repository is organized into a single, clean, and self-contained project:
 
-`text
+```text
 My-Cpp-Libraries/           (Root)
 │
 ├── main-test-app/           (Main Project Folder)
