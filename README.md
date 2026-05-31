@@ -17,18 +17,18 @@ Here are the foundational engineering concepts applied in this repository:
 
 Inside this repository, the code is structured into dedicated, modular header files:
 
-`text
+```text
 ├── 📂 String-Library/
-│   ├── clsString.h       # Advanced text manipulation and tokenization algorithms
+│   └── clsString.h       # Advanced text manipulation and tokenization algorithms
 │
 ├── 📂 Date-Time-Library/
-│   ├── clsDate.h         # Comprehensive date arithmetic, calendars, and duration calculations
+│   └── clsDate.h         # Comprehensive date arithmetic, calendars, and duration calculations
 │
 ├── 📂 Input-Validate-Library/
-│   ├── clsInputValidate.h# Secure user-input handling, range checks, and type validation
+│   └── clsInputValidate.h# Secure user-input handling, range checks, and type validation
 │
 ├── 📂 Utility-Library/
-│   ├── clsUtil.h         # General purpose helpers (Randomization, Encryption, Formatting)
+│   └── clsUtil.h         # General purpose helpers (Randomization, Encryption, Formatting)
 │
 └── 📂 Main-Testing-App/
     └── Source.cpp        # Console application demonstrating library integration
